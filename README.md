@@ -204,4 +204,4 @@ X-Lizard Password Manager is offered as a full free version, with all features a
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-16 22:27:28 UTC
+**Last updated:** 2026-10-17 00:59:56 UTC
